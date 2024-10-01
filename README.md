@@ -5,4 +5,4 @@ Feel free to check my projects and contribute!
 You can reach me on renato {at} cibero /.\ net
 
 ## My Highlights
-- (Enigmafy)[https://github.com/cibero42/enigmafy]: encrypt archives and folders to privately send them over the internet.
+- [Enigmafy](https://github.com/cibero42/enigmafy): encrypt archives and folders to privately send them over the internet.
