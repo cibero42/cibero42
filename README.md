@@ -6,3 +6,6 @@ You can reach me on renato {at} cibero /.\ net
 
 ## My Highlights
 - [Enigmafy](https://github.com/cibero42/enigmafy): encrypt archives and folders to privately send them over the internet.
+
+
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibero42&show_icons=true&theme=transparent)
