@@ -4,7 +4,7 @@ I'm a cybersecurity nerd curious about Blue Team and Intelligence. I love buildi
 
 Currently, I'm the Docker Working Group Leader and part of the security team at Mautic, helping to handle security incidents project-wise as a volunteer.
 
-## My Projects
+## Related Open-source Projects
 * **[Enigmafy](https://github.com/cibero42/enigmafy)**: Securely encrypt archives and folders for private online sharing.
 * **[Autodumper](https://github.com/casfergroup/autodumper)**: Docker image that backups databases and sends the data to a remote host using Rclone.
 * **[Mautic Docker Image](https://github.com/mautic/docker-mautic)**: The official Docker image for Mautic.
