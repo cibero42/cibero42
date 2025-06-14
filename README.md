@@ -10,7 +10,7 @@ I'm also dedicated to improving the cybersecurity knowledge of [UNICAMP](https:/
 * **[Autodumper](https://github.com/casfergroup/autodumper)**: Docker image that backups databases and sends the data to a remote host using Rclone.
 * **[Enigmafy](https://github.com/cibero42/enigmafy)**: Securely encrypt archives and folders for private online sharing.
 * **[Mautic Docker Image](https://github.com/mautic/docker-mautic)**: The official Docker image for Mautic.
-* **[Pandora](https://pandora.casfergroup.com)**: Webindex of red team cybersecurity tools.
+* **[Pandora](https://cibero42.github.io/pandora/)**: Webindex of red team cybersecurity tools.
 
 
 ## Let's Connect
