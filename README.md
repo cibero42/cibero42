@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there! I'm Renato 👋
 
-<!--
-**cibero42/cibero42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity nerd curious about Blue Team and Intelligence. I love building tools and guides to protect systems and data, and I share them right here.
 
-Here are some ideas to get you started:
+Currently, I'm the Docker Working Group Leader and part of the security team at Mautic, helping to handle security incidents project-wise as a volunteer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also dedicated to improving the cybersecurity knowledge of [UNICAMP](https://www.unicamp.br) undergraduates, by delivering hands-on training, hosting CTF events, and connecting students with leading professionals for specialized workshops, through the [Cybersecurity League](http://www.lics.tec.br).
+
+## Related Open-source Projects
+* **[Enigmafy](https://github.com/cibero42/enigmafy)**: Securely encrypt archives and folders for private online sharing.
+* **[Mautic Docker Image](https://github.com/mautic/docker-mautic)**: The official Docker image for Mautic.
+
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibero42&show_icons=true&theme=transparent)
